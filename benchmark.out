@@ -1,0 +1,3 @@
+Benchmark 1: /tmp/bin/main -file=./measurements.txt
+  Time (mean ± σ):     137.014 s ±  0.677 s    [User: 131.628 s, System: 6.648 s]
+  Range (min … max):   136.443 s … 138.021 s    5 runs
